@@ -1,5 +1,5 @@
 argparse
-opencv-python
+opencv-python-headless
 numpy
 flask
 ultralytics
